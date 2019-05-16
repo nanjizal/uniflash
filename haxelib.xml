@@ -1,0 +1,7 @@
+<project name="uniflash" url="http://code.google.com/p/uniflash/" license="BSD">
+	<user name="uniflash-owner"/>
+	<description>haXe library to compile F9 code to F8/F7</description>
+	<version name="2.0.3">
+		- "name" field added to MovieClip and TextField
+	</version>
+</project>

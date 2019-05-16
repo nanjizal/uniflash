@@ -1,0 +1,19 @@
+-swf test9.swf
+-swf-version 9
+-main MainEvent
+-lib arctic
+-lib uniflash
+
+--next
+-swf test8.swf
+-swf-version 8
+-main MainEvent
+-lib arctic
+-lib uniflash
+
+--next
+-swf test7.swf
+-swf-version 7
+-main MainEvent
+-lib arctic
+-lib uniflash
